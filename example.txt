@@ -1,0 +1,9 @@
+1 "thisIsTextOfClearanceLevel1."
+2 "thisIsTextOfClearanceLevel2."
+3 "thisIsTextOfClearanceLevel3."
+4 "thisIsTextOfClearanceLevel4."
+3 "thisIsTextOfClearanceLevel3."
+2 "thisIsTextOfClearanceLevel2."
+
+
+#end
